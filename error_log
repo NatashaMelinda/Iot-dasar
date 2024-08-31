@@ -1,0 +1,35 @@
+[24-Mar-2024 02:06:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bely8712_iot'@'localhost' (using password: YES) in /home/bely8712/public_html/koneksi.php on line 8
+[24-Mar-2024 02:09:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bely8712_iot'@'localhost' (using password: YES) in /home/bely8712/public_html/koneksi.php on line 8
+[24-Mar-2024 02:09:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bely8712_iot'@'localhost' (using password: YES) in /home/bely8712/public_html/koneksi.php on line 8
+[24-Mar-2024 03:28:22 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/bely8712/public_html/update_lampu.php on line 9
+[24-Mar-2024 03:28:22 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:28:36 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:28:36 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 9
+[24-Mar-2024 03:29:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bely8712/public_html/update_lampu.php on line 12
+[24-Mar-2024 03:29:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bely8712/public_html/update_lampu.php on line 12
+[24-Mar-2024 03:29:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bely8712/public_html/update_lampu.php on line 12
+[24-Mar-2024 03:29:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bely8712/public_html/update_lampu.php on line 11
+[24-Mar-2024 03:30:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bely8712/public_html/update_lampu.php on line 11
+[24-Mar-2024 03:30:55 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:30:55 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:31:01 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:31:16 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:31:16 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:39:53 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:44:21 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:44:21 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:49:23 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:51:15 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:51:15 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:51:41 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:06 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:06 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:52:11 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:18 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:18 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:52:20 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:20 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
+[24-Mar-2024 03:52:30 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:52:32 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:53:44 UTC] PHP Warning:  Use of undefined constant ON - assumed 'ON' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 7
+[24-Mar-2024 03:53:44 UTC] PHP Warning:  Use of undefined constant OFF - assumed 'OFF' (this will throw an Error in a future version of PHP) in /home/bely8712/public_html/update_lampu.php on line 10
