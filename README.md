@@ -4,7 +4,7 @@ Selamat datang di repositori **IoT Dasar**! 🌐
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk memperkenalkan konsep dasar Internet of Things (IoT) dengan fokus pada implementasi praktis dan aplikasi nyata. Di sini, Anda akan menemukan berbagai contoh, tutorial, dan kode sumber yang dirancang untuk membantu Anda memahami dan membangun proyek IoT Anda sendiri.
+Proyek ini bertujuan untuk memperkenalkan konsep dasar Internet of Things (IoT) dengan fokus pada implementasi praktis dan aplikasi nyata. Di sini, Anda akan menemukan berbagai contoh, tutorial, dan kode sumber yang dirancang untuk membantu Anda memahami dan membangun proyek IoT Anda sendiri. Sebagai Kasus project yang saya buat menghidup dan mematikan lampu menggunakan aplikasi web.
 
 ## Fitur Utama
 
